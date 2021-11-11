@@ -1,0 +1,205 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.19f1 (68f137dc9bbe) revision 6877495'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 19043.1288; Version 2009; 64bit' Language: 'en' Physical Memory: 32601 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.19f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/u1325610/My project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52031
+Successfully changed project path to: C:/Users/u1325610/My project
+C:/Users/u1325610/My project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 64.16 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 1.12 ms.
+Initialize engine version: 2020.3.19f1 (68f137dc9bbe)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/u1325610/My project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 (ID=0x2484)
+    Vendor:   
+    VRAM:     8043 MB
+    Driver:   30.0.14.9649
+Shader 'QuantumTheory/VertexColors/Unity5/Diffuse Alpha2': fallback shader 'QuantumTheory/VertexColors/VertexLit' not found
+Shader 'QuantumTheory/VertexColors/Deprecated/IBL//Reflective': fallback shader 'QuantumTheory/VertexColors/VertexLit' not found
+Shader 'QuantumTheory/VertexColors/Deprecated/IBL/Diffuse': fallback shader 'QuantumTheory/VertexColors/VertexLit' not found
+Shader 'QuantumTheory/VertexColors/Unity5/Diffuse Texture Linear': fallback shader 'QuantumTheory/VertexColors/VertexLit' not found
+Shader 'QuantumTheory/VertexColors/Unity5/Emissive Linear': fallback shader 'QuantumTheory/VertexColors/VertexLit' not found
+Shader 'QuantumTheory/VertexColors/Unity5/Reflective Alpha': fallback shader 'QuantumTheory/VertexColors/VertexLit' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'QuantumTheory/VertexColors/Deprecated/IBL/Emissive': fallback shader 'QuantumTheory/VertexColors/VertexLit' not found
+Shader 'QuantumTheory/VertexColors/Unity5/Diffuse Texture': fallback shader 'QuantumTheory/VertexColors/VertexLit' not found
+Shader 'QuantumTheory/VertexColors/Deprecated/IBL/Diffuse Texture': fallback shader 'QuantumTheory/VertexColors/VertexLit' not found
+Shader 'QuantumTheory/VertexColors/Unity5/Reflective': fallback shader 'QuantumTheory/VertexColors/VertexLit' not found
+Shader 'QuantumTheory/VertexColors/Unity5/Reflective Linear': fallback shader 'QuantumTheory/VertexColors/VertexLit' not found
+Shader 'QuantumTheory/VertexColors/Unity5/Emissive': fallback shader 'QuantumTheory/VertexColors/VertexLit' not found
+Shader 'QuantumTheory/VertexColors/Unity5/Diffuse Linear': fallback shader 'QuantumTheory/VertexColors/VertexLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56128
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001550 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 52.92 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.05 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.868 seconds
+Domain Reload Profiling:
+	ReloadAssembly (868ms)
+		BeginReloadAssembly (48ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (336ms)
+			LoadAssemblies (46ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (111ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (23ms)
+			SetupLoadedEditorAssemblies (145ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (53ms)
+				BeforeProcessingInitializeOnLoad (6ms)
+				ProcessInitializeOnLoadAttributes (61ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003896 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+[XR] OculusXRPlugin: registering subsystems
+[XR] Unable to register display lifecyle provider: [1]
+[XR] Oculus Input lifecycle provider registered.
+[XR] Unable to register input lifecyle provider: [1]
+[XR] OVRP version 1.65.0
+Mono: successfully reloaded assembly
+- Completed reload, in  0.828 seconds
+Domain Reload Profiling:
+	ReloadAssembly (829ms)
+		BeginReloadAssembly (113ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (13ms)
+		EndReloadAssembly (658ms)
+			LoadAssemblies (71ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (223ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (244ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (48ms)
+				ProcessInitializeOnLoadAttributes (178ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'QuantumTheory/VertexColors/Deprecated/IBL/Diffuse': fallback shader 'QuantumTheory/VertexColors/VertexLit' not found
+Shader 'QuantumTheory/VertexColors/Unity5/Reflective Alpha': fallback shader 'QuantumTheory/VertexColors/VertexLit' not found
+Shader 'QuantumTheory/VertexColors/Unity5/Diffuse Texture': fallback shader 'QuantumTheory/VertexColors/VertexLit' not found
+Shader 'QuantumTheory/VertexColors/Deprecated/IBL/Diffuse Texture': fallback shader 'QuantumTheory/VertexColors/VertexLit' not found
+Shader 'QuantumTheory/VertexColors/Unity5/Emissive': fallback shader 'QuantumTheory/VertexColors/VertexLit' not found
+Shader 'QuantumTheory/VertexColors/Unity5/Emissive Linear': fallback shader 'QuantumTheory/VertexColors/VertexLit' not found
+Shader 'QuantumTheory/VertexColors/Deprecated/IBL//Reflective': fallback shader 'QuantumTheory/VertexColors/VertexLit' not found
+Shader 'QuantumTheory/VertexColors/Unity5/Diffuse Texture Linear': fallback shader 'QuantumTheory/VertexColors/VertexLit' not found
+Shader 'QuantumTheory/VertexColors/Unity5/Diffuse Alpha2': fallback shader 'QuantumTheory/VertexColors/VertexLit' not found
+Shader 'QuantumTheory/VertexColors/Deprecated/IBL/Emissive': fallback shader 'QuantumTheory/VertexColors/VertexLit' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'QuantumTheory/VertexColors/Unity5/Reflective': fallback shader 'QuantumTheory/VertexColors/VertexLit' not found
+Shader 'QuantumTheory/VertexColors/Unity5/Diffuse Linear': fallback shader 'QuantumTheory/VertexColors/VertexLit' not found
+Shader 'QuantumTheory/VertexColors/Unity5/Reflective Linear': fallback shader 'QuantumTheory/VertexColors/VertexLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.98 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+Unloading 2144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.7 MB.
+System memory in use after: 113.7 MB.
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 2559.
+Total: 2.427800 ms (FindLiveObjects: 0.201400 ms CreateObjectMapping: 0.136200 ms MarkObjects: 2.014500 ms  DeleteObjects: 0.074900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/PostPartum_Final.unity
+  artifactKey: Guid(02f219c9419385a478d7cc9eed0d5556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PostPartum_Final.unity using Guid(02f219c9419385a478d7cc9eed0d5556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3a177b67746fb1b886343ab54c1b9f8') in 0.011170 seconds 
+  Import took 0.013833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.197817 seconds.
+  path: Assets/Scenes/PostPartum.unity
+  artifactKey: Guid(682d9971c77265547942951d159c1e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PostPartum.unity using Guid(682d9971c77265547942951d159c1e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e3d5a41c1724a6362fa99030f60d102') in 0.005434 seconds 
+  Import took 0.008058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.265926 seconds.
+  path: Assets/Scenes/ObjectInteractionTest.unity
+  artifactKey: Guid(f7524ce984da0c040b3d659c8eb9233f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ObjectInteractionTest.unity using Guid(f7524ce984da0c040b3d659c8eb9233f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1676c3310601983109a328a862c6262') in 0.004913 seconds 
+  Import took 0.007469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.994313 seconds.
+  path: Assets/Scenes/StressManagement.unity
+  artifactKey: Guid(416e8e9f671efcc4a9331a6121704ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/StressManagement.unity using Guid(416e8e9f671efcc4a9331a6121704ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fd63a0080a52fb7829cfaa9636e6da0') in 0.005238 seconds 
+  Import took 0.007846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.655336 seconds.
+  path: Assets/Scenes/TitleScreen.unity
+  artifactKey: Guid(ab3e8730db22ca84885463c0e741ef94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/TitleScreen.unity using Guid(ab3e8730db22ca84885463c0e741ef94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b8e5b9d5bac7eaa05dc46c9cfd5be33') in 0.004771 seconds 
+  Import took 0.007384 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
